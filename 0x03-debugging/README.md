@@ -1,6 +1,19 @@
-0x03-debugging
+0x03. C - Debugging
 
-Qa review automated 
 
-cheacker was released 2021
 
+By Carrie Ybay
+
+
+
+
+ongoing project - started 08-31-2021, must end by 09-03-2021 (in 1 day) - you're done with one percent of the tasks.
+
+
+
+chceker was released at 09-01-2021 12:00 PM
+
+
+
+
+QA review fully automated.
